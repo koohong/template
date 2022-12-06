@@ -1,1 +1,1 @@
-# template
+template folder structure
